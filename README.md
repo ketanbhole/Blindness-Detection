@@ -11,6 +11,9 @@ pandas
 PIL (Pillow)
 scikit-learn
 
+For installing dependencies run the following command in terminal:
+pip install -r requirements.txt
+
 Usage
 1. Dataset Preparation
 The retinal images and their corresponding labels should be organized into specific directories or folders.
