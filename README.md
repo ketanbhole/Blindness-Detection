@@ -56,6 +56,7 @@ predicted_severity = predict_blindness(image_path)
 print(f"The predicted severity of diabetic retinopathy for the image is: {predicted_severity}")
 
 output will show the detection in 
+
 0 - No DR
 
 1 - Mild
