@@ -3,6 +3,9 @@ Overview
 This repository contains a Python script for training a Convolutional Neural Network (CNN) model to detect the severity of diabetic retinopathy using retinal images. 
 It also includes functionality to use the trained model to predict the severity of diabetic retinopathy for a given retinal image.
 
+software:
+PyCharm
+
 Dependencies
 Python 3.9
 TensorFlow
